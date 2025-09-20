@@ -52,8 +52,6 @@ Design a system that can:
 
 ## 🛠 Setup Instructions
 
-Project: Zynga Hackathon Setup Guide
-
 folders:
   - backend
   - frontend/zynga_frontend
@@ -188,3 +186,4 @@ notes:
   - This is a proof-of-concept. Do not use with real personal data.
   - No UIDAI or real government APIs are involved.
   - Use only simulated/fake Aadhaar cards for testing purposes.
+
